@@ -2,6 +2,10 @@ body {
 	background-color: rgb(175,0,255);
 }
 
+#hero {
+	text-align: center;
+}
+
 button {
 	width: 80%;
 	height: 40px;
